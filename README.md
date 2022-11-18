@@ -10,3 +10,10 @@ I started my window manager hopping using bspwm, and honestly still consider it 
 I intend to have one branch for my BSPWM Based rice
 and another for my sway/swayfx based rice
 
+
+# Credits:
+- [SaimoonEdits, eww-widgets](https://github.com/saimoomedits/eww-widgets) 
+- [Gwynsav's Messy Dots](https://github.com/Gwynsav/messydots)
+- and likely a ton others, that I credited in my files, I'll continue to update this when I find more people to credit :)
+
+
