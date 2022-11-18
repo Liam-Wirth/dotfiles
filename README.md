@@ -1,6 +1,6 @@
 # Liam's scuffed ass dotfiles
-## for the love of God, please only use these dotfiles as an example. this is not cause I'm elitist about "oh you have to use your own dots" or some shit, it's because my dotfiles are likely absolute cursed fuckery that shouldn't be touched with a ten foot pole, and I don't want people using them and having their systems broken
-## With that said, please feel free to use them as examples to configure your own system!
+ for the love of God, please only use these dotfiles as an example. this is not cause I'm elitist about "oh you have to use your own dots" or some shit, it's because my dotfiles are likely absolute cursed fuckery that shouldn't be touched with a ten foot pole, and I don't want people using them and having their systems broken  With that said, please feel free to use them as examples to configure your own system!
+
 
 
 
