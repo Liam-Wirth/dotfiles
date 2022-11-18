@@ -16,7 +16,7 @@ and another for my sway/swayfx based rice
 - [Gwynsav's Messy Dots](https://github.com/Gwynsav/messydots)
 - and likely a ton others, that I credited in my files, I'll continue to update this when I find more people to credit :)
 
-#TODO
+# TODO
 * figure out eww to get it to work the way I want
 * restructure polybar at some point to also work the way I want
 * Configure a swayfx rice and learn how to use sway/swayfx
